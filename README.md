@@ -25,5 +25,6 @@ A full recreation of the classic 2048 puzzle game built using **Python** and **P
 
 ## 📸 Screenshot
 
-![2048 Game Screenshot](screenshot.png)
+![image alt](https://github.com/rohansingh2609/2048-Game/blob/main/Screenshot%202025-07-19%20212431.png?raw=true)
+![image alt](https://github.com/rohansingh2609/2048-Game/blob/main/Screenshot%202025-07-19%20212458.png?raw=true)
 
